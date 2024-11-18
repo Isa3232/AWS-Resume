@@ -5,3 +5,5 @@ This project was part of the AWS Resume Challange to host a static website in AW
 # Project Overview 
 
 The first thing that I did was create Github and AWS accounts. 
+
+Next I found templates/wrote code for my HTML, CSS, and Python code. 
